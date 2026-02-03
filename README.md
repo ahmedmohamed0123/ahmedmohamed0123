@@ -25,7 +25,7 @@ My expertise lies in building efficient hardware architectures for FPGAs and ens
 
 <br>
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
 ### Languages & Logic
 <p>
@@ -33,7 +33,7 @@ My expertise lies in building efficient hardware architectures for FPGAs and ens
   <img src="https://img.shields.io/badge/SystemVerilog-2196F3?style=flat&logo=systemverilog&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
 </p>
 
 ### EDA Tools & Methodologies
@@ -66,11 +66,3 @@ My expertise lies in building efficient hardware architectures for FPGAs and ens
 
 ---
 
-<details>
-    <summary>📊 GitHub Activity & Stats</summary>
-    <br>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-    </div>
-</details>
