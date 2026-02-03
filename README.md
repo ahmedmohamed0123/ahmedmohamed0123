@@ -16,8 +16,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXFid3J6ZzR0bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" alt="Hardware Engineering" align="right" width="220">
-
 <p align="left">
 I am an <b>Electronics & Electrical Communication Engineer</b> specializing in <b>Digital Design (RTL)</b> and <b>Digital Verification</b>. 
 My expertise lies in building efficient hardware architectures for FPGAs and ensuring system reliability through <b>UVM</b> and advanced verification methodologies. I am passionate about bridging the gap between hardware description and robust silicon-ready verification.
